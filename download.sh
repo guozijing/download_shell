@@ -1,7 +1,7 @@
 #!/bin/env bash
 
-Url="http://10.240.224.200/New_OS/bevo/pf9/v4.5/P9-offline-install/"
-DownPath="/mnt/pf9/P9-offline-install/"
+Url=""
+DownPath=""
 DownListFile="/tmp/downlist.txt"
 DownListTmpFile="/tmp/tmplist.txt"
 DownFileType=""
